@@ -1,0 +1,18 @@
+.product-carousel {
+  position: relative;
+  overflow: hidden;
+  padding: 26px;
+}
+
+.product-container {
+  display: flex;
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+.product {
+  display: flex;
+  min-width: 1000px;
+  max-width: 1000px;
+  padding-right: 10rem;
+  border-radius: 20px;
+}
